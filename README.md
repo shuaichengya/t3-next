@@ -1,4 +1,4 @@
-## Create T3 App
+## quickly start
 
 pnpm dev or pnpm start
 
